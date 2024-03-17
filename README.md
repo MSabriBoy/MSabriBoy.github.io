@@ -1,12 +1,7 @@
-<!DOCTYPE html>
-<html>
-<body>
 - 👋 Hi Coder, I’m @MSabriBoy
-<p>- 👀 I’m interested in Coding</p>
-<p>- 🌱 I’m currently learning C++</p>
-<p>- 😄 Pronouns: Rihan Sabri</p>
-</body>
-</html>
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning C++
+- 😄 Pronouns: Rihan Sabri
 <!---
 MSabriBoy/MSabriBoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
